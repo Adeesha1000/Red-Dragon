@@ -33,7 +33,7 @@ global.vcardowner = ['+380944814219'] // owner number
 global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
-global.location = "India, Mizoram, Aizawl" // location
+global.location = "Canada, Mizoram, Aizawl" // location
 
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
@@ -61,8 +61,8 @@ global.premium = ['+380944814219'] //ur premium numbers
 //other
 global.sessionName = 'session'
 global.antitags = false
-global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
-global.sp = '💠'
+global.prefa = ['','!','.','😂','🇨🇦','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
+global.sp = '🇨🇦💖'
 global.mess = {
     success: 'Done ✅',
     admin: 'Only Admins can use it!😉',
